@@ -57,8 +57,6 @@ links to social media, maybe newsletter signup with reCAPTCHA
 
 Maybe open up with this narrative from the historian Ray Chism. [History of Relay](http://relaymaryland.com/Welcome_files/HistoryofRelay.pdf)
 
-Integrate this FAQ: [Relay Historic District - Frequently Asked Questions](http://relaymaryland.com/Welcome_files/RelayFAQ2011.pdf)
-
 A video of the Relay community passage of time. [The Relay Community](https://www.youtube.com/watch?v=-4d6KkJX35Y&wide)
 
 ## Thomas viaduct
@@ -112,7 +110,8 @@ It would be nice to embed this and make it navigatable.
 
 # TownHall
 
-Anyone who's been a part of the Relay community has a story to tell about the Relay Town Hall. The Town Hall is the center of the community and has a rich history which is interwoven with the history of the Relay community history. The hall serves as a cherished location for many memories. 
+Anyone who's been a part of the Relay community has a story to tell about the Relay Town Hall. The Town Hall is the center of the community and has a rich history which is interwoven with the history of the Relay community itself. The hall serves as a cherished location for many memories. Hear more about it in the informational video and find out about renting it out for your next event too!. 
+
 # Relay Improvement Association
 
 # RIA Membership
