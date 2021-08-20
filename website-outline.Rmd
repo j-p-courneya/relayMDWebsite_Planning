@@ -78,7 +78,7 @@ Story of the World War 1 service banner : [WWI Service Banner Restoration](https
 
 ## Security
 
-Security and Safety Contact numbers
+### Security and Safety Contact numbers
 
 1. **In Case of Emergency**, or if you see a crime in progress, call BR Police Dispatch at 410-887-0872, or call 911. If a Garden District security patrol officer happens to already be in the area, Dispatch will call them.
 
@@ -88,7 +88,21 @@ Security and Safety Contact numbers
 
 4. **House Vacancies** If you would like to inform the GD Security Patrol that you’ll be out of town, you can submit a house [vacancy notice](https://resources.baltimorecountymd.gov/Documents/Police/2014pdfs/vacanthouseform141119.pdf) or email it to your [precinct](https://www.baltimorecountymd.gov/departments/police/precinctsgeneral/precinctsall.html).
 
+### 5 Steps to a Safer Neighborhood
+
 ![](https://i.imgur.com/9hN8fue.jpg)
+
+### Home Security Resources and Links
+
+These home security links and resources will help you prepare a secure home and help you know what to do in the event of a problem. Please download and print for your records.
+
+* Website for Baltimore County Police Department [Precinct 1 – Wilkens](https://www.baltimorecountymd.gov/departments/police/pc01/index.html)
+
+* Baltimore County Police Department Crime prevention tips for Homeowners [link](https://www.baltimorecountymd.gov/departments/police/yoursafety/crimeprev_homes.html)
+
+* Residential Security Surveys can be requested by reaching the Precinct 1 – Wilkens Outreach Unit at : **410-887-5165**
+
+* Tips for non-emergency situations can also be submitted online via the department's [iWatch Baltimore County tip form](https://www.baltimorecountymd.gov/departments/police/media/iWatch/index.html).
 
 ## Relay Historic District FAQ
 
@@ -98,6 +112,7 @@ It would be nice to embed this and make it navigatable.
 
 # TownHall
 
+Anyone who's been a part of the Relay community has a story to tell about the Relay Town Hall. The Town Hall is the center of the community and has a rich history which is interwoven with the history of the Relay community history. The hall serves as a cherished location for many memories. 
 # Relay Improvement Association
 
 # RIA Membership
