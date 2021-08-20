@@ -50,19 +50,8 @@ call to action to become a memeber of the RIA and donate.
 
 links to social media, maybe newsletter signup with reCAPTCHA
 
-# News and Calendar
 
-## News feed 
-
-The content for this feed will be synchronized with
-
-## Calendar
-
-Google calendar feed like Zion?
-
-# Neighborhood
-
-## History of Relay and St. Denis
+# History of Relay and St. Denis
 
 Maybe open up with this narrative from the historian Ray Chism. [History of Relay](http://relaymaryland.com/Welcome_files/HistoryofRelay.pdf)
 
@@ -70,17 +59,20 @@ Integrate this FAQ: [Relay Historic District - Frequently Asked Questions](http:
 
 A video of the Relay community passage of time. [The Relay Community](https://www.youtube.com/watch?v=-4d6KkJX35Y&wide)
 
-### Thomas viaduct
+## Thomas viaduct
 
 Some videos and content about the viaduct
 
 [The Thomas Viaduct](https://www.youtube.com/watch?v=-tCcWP3CsJE&wide)
+
 [The Thomas Viaduct Animation](https://www.youtube.com/watch?v=0HUQZMtOoHk&wide)
 
-### World War 1 Service Banner
+## World War 1 Service Banner
 
 Story of the World War 1 service banner : [WWI Service Banner Restoration](https://www.youtube.com/watch?v=7S_g64RYziU&wide)
 
+
+# Neighborhood
 
 ## Security
 
@@ -96,9 +88,24 @@ Security and Safety Contact numbers
 
 ![](https://i.imgur.com/9hN8fue.jpg)
 
+## Relay Historic District FAQ
+
+It would be nice to embed this and make it navigatable.
+
+[FAQ Flier](http://relaymaryland.com/Welcome_files/RelayFAQ2011.pdf)
 
 # TownHall
 
 # Relay Improvement Association
 
 # RIA Membership
+
+# News and Calendar
+
+## News feed 
+
+The content for this feed will be synchronized with notifications typically sent through the listserv.
+
+## Calendar
+
+Google calendar feed like Zion?
